@@ -3,4 +3,4 @@ https://www.youtube.com/watch?v=zDIGQ58DaLU
 
 
 Result:
-![wow(https://github.com/FlorianMarsch/android-parallax-intro/master/ezgif-7-428c3fb50382.gif)
+![wow(https://github.com/FlorianMarsch/android-parallax-intro/blob/master/ezgif-7-428c3fb50382.gif?raw=true "Result")
